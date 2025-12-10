@@ -5,7 +5,7 @@
 This dashboard visualizes survey data from students to identify patterns and correlations between various wellness indicators and academic habits. 
 The analysis provides insights for educational institutions to better support student well-being and optimize learning environments.
 
-## 🎯 Key Metrics Analyzed
+## Key Metrics Analyzed
 
 ### Wellness Indicators
 - **Academic Pressure (AP):** Stress levels related to coursework 
